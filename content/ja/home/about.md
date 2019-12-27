@@ -1,0 +1,8 @@
+---
+title: "About"
+image: "yuma_dot.jpg"
+weight: 1
+---
+
+NPO法人VineTS理事長、横浜国立大学4年。\\
+大分高専電気電子工学科を卒業したのち、横浜国立大学電子情報学科に編入学。2020年卒業見込み。[more](../about/)
