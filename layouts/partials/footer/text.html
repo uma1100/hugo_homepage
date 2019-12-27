@@ -1,11 +1,21 @@
 <div class="section" id="footer">
     <div class="container has-text-centered">
-    {{ with .Site.Params.footerText }}
+        {{ with .Site.Params.footerText }}
         {{ . | markdownify }}
-    {{ else }}
+        {{ else }}
         <span class="footer-text">
             {{ i18n "footer_text" . | markdownify }}
         </span>
-    {{ end }}
+        {{ end }}
+        <div class="social-icons">
+            {{ range .Site.Params.social }}
+            <a href="{{ .url }}" {{ .html_attributes | safeHTMLAttr }}>
+                <i class="{{ .icon_pack}} fa-{{ .icon}}"></i>
+            </a>
+            {{ end }}
+        </div>
+        <p class="textf">
+        Copyright © 2019 mozzz
+        </p>
     </div>
 </div>

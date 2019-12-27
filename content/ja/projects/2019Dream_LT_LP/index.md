@@ -9,4 +9,4 @@ tags: ["Frontend","HTML","CSS","JavaScript","GitHubPages"]
 - 代表をしているNPO法人VineTSの最初のイベントのLPを作成しました。
 
 ## 公開サイト
-- https://yuma1100.github.io/tell_a_dream_LT/index.html
+- [GitHub](https://yuma1100.github.io/tell_a_dream_LT/index.html)

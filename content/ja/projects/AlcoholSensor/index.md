@@ -16,4 +16,4 @@ tags: ["GAS","HTML","CSS","JavaScript","ラズパイ","SpreadSheet"]
 - ゲーム感覚でしてもらうために酔い度をHPに換算し、HPが指定した値以下になった場合、出力としてぬいぐるみがアクションをします。
 
 ## ソースコード
-- https://github.com/yuma1100/webiotmakers_2019_03
+- [GitHub](https://github.com/yuma1100/webiotmakers_2019_03)

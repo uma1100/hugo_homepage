@@ -62,21 +62,21 @@ NPO法人VineTS理事長、横浜国立大学4年。\\
 - **ドット絵**
   
 ### Projects <i class="fas fa-wrench"></i>
-- **NPO法人VineTS主催イベント「夢を語るLT会」LP**\\
+- **[NPO法人VineTS主催イベント「夢を語るLT会」LP](../projects/2019dream_lt_lp/)**\\
   VineTS / Dec 2019
-- **実質0カロリートースター**\\
+- **[実質0カロリートースター](../projects/0caltoaster/)**\\
   [HackDay](https://hackday.jp/) / Dec 15,2019
-- **TipType**\\
+- **[TipType](../projects/tiptype/)**\\
   [Hack U Tokyo](https://hacku.yahoo.co.jp/hacku2019tokyo/) / Aug 10,2019
-- **ZENPEN HP**\\
+- **[ZENPEN HP](../projects/zenpen_hp/)**\\
   ZENPEN / Jun 6,2019
-- **twifav**\\
+- **[twifav](../projects/twifav/)**\\
   個人開発 / May 2019
-- **平成振り返りデバイス**\\
+- **[平成振り返りデバイス](../projects/lookbackheise/)**\\
   [ハッカソン](https://www.cyberagent.co.jp/careers/students/event/detail/id=22909) / Apr 30,2019
-- **TALCCO**\\
+- **[TALCCO](../projects/talcco/)**\\
   インターン / Apr 2019
-- **リォウ-酔い度測定システム-**\\
+- **[リォウ-酔い度測定システム-](../projects/alcoholsensor/)**\\
   ハッカソン / Mar 2019
-- **シガダイゴ**\\
+- **[シガダイゴ](../projects/shigadaigo/)**\\
   授業 / Jun 2017

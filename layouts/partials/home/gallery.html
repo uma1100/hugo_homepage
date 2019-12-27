@@ -1,4 +1,4 @@
-{{ with .Site.GetPage "/galley" }}
+{{ with .Site.GetPage "/gallery" }}
 <div class="section" id="{{ .Title | urlize }}">
     <!-- Begin Projects container -->
     <div class="container">
@@ -12,13 +12,13 @@
                 {{ range $index, $element := .Pages.ByWeight | first $numberOfProjectsToShow }}
                 {{ $width := "302x" }}
                 {{ $columWidth := "is-one-third" }}
-                {{ if .Site.Params.projects.useTwoColumns }}
+                {{ if .Site.Params.gallery.useTwoColumns }}
                   {{ $columWidth = "is-half" }}
                   {{ $width = "490x" }}
                 {{ end}}
                 <div class="column {{ $columWidth }}">
-                    <!-- <div class="card" data-target="#project-{{ $index }}"> -->
-                    <div class="card">
+                    <div class="card" data-target="#project-{{ $index }}">
+                    <!-- <div class="card"> -->
                         <div class="card-image">
                             <figure class="image is-3by2">
                                 <a href="{{ if .Params.external_link }}{{ .Params.external_link }}{{ else }}{{ .Permalink }}{{ end }}">

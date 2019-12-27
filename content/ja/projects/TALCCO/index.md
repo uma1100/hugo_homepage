@@ -18,10 +18,10 @@ tags: ["インターン","GAS","AdobeXD","python","ラズパイ","Codama"]
 - https://vimeo.com/328210072
 
 ## Qiita
-- https://qiita.com/yuma1100/items/2afdf01f89cdb8d99bcc
+- [Qiita](https://qiita.com/yuma1100/items/2afdf01f89cdb8d99bcc)
 
 ## 発表スライド
-- https://speakerdeck.com/yuma1100/yukai-intern2019-04-03-d0280701-4b06-4e85-a3fc-40cf23ec9f71
+- [SpeakerDeck](https://speakerdeck.com/yuma1100/yukai-intern2019-04-03-d0280701-4b06-4e85-a3fc-40cf23ec9f71)
   
 ## ソースコード
-- https://github.com/yuma1100/talcco
+- [GitHub](https://github.com/yuma1100/talcco)

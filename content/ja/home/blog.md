@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-weight: 10
+weight: 40
 ---
 
 ### [note](https://note.com/mozzz)

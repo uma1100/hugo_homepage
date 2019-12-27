@@ -16,4 +16,4 @@ tags: ["HTML","CSS","JavaScript","p5.js","Flask","SpreadSheetAPI","ハッカソ�
 - 勝敗が決まりより激しく動いたほうがトースターを食べることができる。
 
 ## ソースコード
-- https://github.com/yuma1100/2020_hackday
+- [GitHub](https://github.com/yuma1100/2020_hackday)

@@ -11,4 +11,4 @@ tags: ["基板"]
   
 
 ## デモ動画
-- https://www.youtube.com/watch?v=Ze3riVnaBoo&feature=youtu.be
+- [YouTube](https://www.youtube.com/watch?v=Ze3riVnaBoo&feature=youtu.be)

@@ -16,7 +16,7 @@ tags: ["firebase","JavaScript","ハッカソン"]
 
 
 ## ソースコード
-- https://github.com/hacku-jokers/typing_game
+- [GitHub](https://github.com/hacku-jokers/typing_game)
   
 ## デモ動画
 - https://vimeo.com/354445841

@@ -21,8 +21,8 @@ tags: ["ハッカソン","GAS","AdobeXD","HTML","JavaScript","CSS"]
 - https://vimeo.com/333354788
 
 ## ソースコード
-- web側：https://github.com/oita-kosen/look_back_HEISE
-- ハード側：https://github.com/oita-kosen/Human-Equipping-Incredible-SEnsor-Interface
+- web側：[GitHub](https://github.com/oita-kosen/look_back_HEISE)
+- ハード側：[GitHub](https://github.com/oita-kosen/Human-Equipping-Incredible-SEnsor-Interface)
 
 ## 公開サイト
 - https://look-back-heisei.herokuapp.com/
