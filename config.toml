@@ -1,4 +1,4 @@
-baseURL                          = "https://yuma1100.github.io/m0z/"  # Your domain name. Must end with "/"
+baseURL                          = "https://www.mozzz.work/"  # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "ja"                    # Default language for multilingual sites
 # disqusshortname                 = ""                       # https://gohugo.io/content-management/comments

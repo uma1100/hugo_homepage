@@ -2,4 +2,4 @@
 {{ $initOwlCarousel := resources.Get "js/initOwlCarousel.js" | minify }}
 {{ $bundleOwlCarousel := slice $owlCarousel $initOwlCarousel | resources.Concat "js/bundleOwlCarousel.js" | fingerprint }}
 <!-- <script src="{{ $bundleOwlCarousel.Permalink }}" integrity="{{ $bundleOwlCarousel.Data.Integrity }}"></script> -->
-<script src="https://yuma1100.github.io/m0z/js/bundleOwlCarousel.js"></script>
+<script src="https://www.mozzz.work/js/bundleOwlCarousel.js"></script>

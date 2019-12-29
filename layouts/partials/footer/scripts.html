@@ -2,6 +2,6 @@
 {{ $index := resources.Get "js/index.js" | minify }}
 {{ $scripts := slice $jQuery $index | resources.Concat "js/bundle.js" | fingerprint }}
 <!-- <script src="{{ $scripts.Permalink }}" integrity="{{ $scripts.Data.Integrity }}"></script> -->
-<script src="https://yuma1100.github.io/m0z/js/bundle.js"></script>
+<script src="https://www.mozzz.work/js/bundle.js"></script>
 
 {{ template "_internal/google_analytics_async.html" . }}

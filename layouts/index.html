@@ -145,7 +145,7 @@
         {{ $initMomentjs := resources.Get "js/initMoment.js" }}
         {{ $bundleMoment := slice $momentjs $momentTimezone $momentTimezoneWithData $initMomentjs | resources.Concat "js/bundleMoment.js" | fingerprint }}
         <!-- <script src="{{ $bundleMoment.Permalink }}" integrity="{{ $bundleMoment.Data.Integrity }}"></script> -->
-        <script src="https://yuma1100.github.io/m0z/js/bundleMoment.js"></script>
+        <script src="https://www.mozzz.work/js/bundleMoment.js"></script>
         {{ end }}
     </body>
 
