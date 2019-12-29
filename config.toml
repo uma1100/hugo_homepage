@@ -108,9 +108,9 @@ canonifyurls = true
         languageCode     = "ja"
         contentDir       = "content/ja"
         weight           = 0
-        title            = "mozzz"
+        title            = "Itonaga"
         [languages.ja.params]
-            description  = "this is mozzz HP"   # Max 160 characters show in search results
+            description  = "this is Itonaga(mozzz) HP"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
 
 
