@@ -10,3 +10,6 @@ tags: ["Flask","heroku","linebot"]
   
 ## 内容
 - [face++](https://www.faceplusplus.com/)のDetectとFasesetを用いています。
+
+## 追加方法
+- [こちら(LINEが必要です)](http://line.me/ti/p/@994ktqlm)

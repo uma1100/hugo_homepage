@@ -38,6 +38,8 @@ NPO法人VineTS理事長、横浜国立大学4年。\\
   [木本研究室](https://www.kimotolab.ml/) 陰影画像から三次元物体を推定する研究をしていました。
 
 ### Organizer <i class="fas fa-user-alt"></i>
+- **[夢を語ろうLT会](https://yuma1100.github.io/tell_a_dream_LT/index.html)**\\
+  VineTS / Jan 5,2020
 - **[第8回関東編入説明会](https://www.zenpen-kosen.com/blog/report-jobhunting3rd/)**\\
   ZENPEN / Sep 24,2019
 - **[第7回関東編入説明会](https://www.zenpen-kosen.com/blog/transferconf-7th-tokyo/)**\\
