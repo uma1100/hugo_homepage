@@ -3,15 +3,13 @@
 {{ if .Site.IsServer }}
 {{ $cssOpts := (dict "targetPath" "css/main.css" "enableSourceMap" true ) }}
 {{ $bundle := $bundleRaw | toCSS $cssOpts }}
-<!-- <link rel="stylesheet" href="{{ $bundle.RelPermalink }}" media="screen"> -->
-<link rel="stylesheet" href="https://www.mozzz.work/css/main.min.css" crossorigin="anonymous" media="screen">
+<link rel="stylesheet" href="{{ $bundle.RelPermalink }}" media="screen">
 
 {{ else }}
 {{ $cssOpts := (dict "targetPath" "css/main.css" ) }}
 {{ $postCSSOpts := (dict "use" "autoprefixer" ) }}
 {{ $bundle := $bundleRaw | toCSS $cssOpts | postCSS $postCSSOpts | minify | fingerprint }}
-<link rel="stylesheet" href="https://www.mozzz.work/css/main.min.css" crossorigin="anonymous" media="screen">
-<!-- <link rel="stylesheet" href="{{ $bundle.RelPermalink }}" integrity="{{ $bundle.Data.Integrity }}" crossorigin="anonymous" media="screen"> -->
+<link rel="stylesheet" href="{{ $bundle.RelPermalink }}" integrity="{{ $bundle.Data.Integrity }}" crossorigin="anonymous" media="screen">
 {{ end }}
 
 <!-- Custom css -->

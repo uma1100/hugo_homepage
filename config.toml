@@ -1,4 +1,4 @@
-baseURL                          = "https://www.mozzz.work/"  # Your domain name. Must end with "/"
+baseURL                          = "https://uma1100.github.io/uma/"  # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "ja"                    # Default language for multilingual sites
 # disqusshortname                 = ""                       # https://gohugo.io/content-management/comments
@@ -81,7 +81,7 @@ canonifyurls = true
     weight  = 4
 [[menu.main]]
     name    = "Blog"
-    url     = "https://note.com/mozzz"
+    url     = "/blog/"
     weight  = 5
 [[menu.main]]
     name    = "Contact"

@@ -11,7 +11,7 @@ NPO法人VineTS理事長、横浜国立大学4年。\\
 大分高専電気電子工学科を卒業したのち、横浜国立大学電子情報学科に編入学。2020年卒業見込み。
 
 ### Activity <i class="fas fa-flag"></i>
-- **NPO法人VineTS** 理事長\\
+- **NPO法人VineTS** 理事長 [Site](https://vinets.kibe.la/shared/entries/28071624-8b04-4f83-b3aa-79f7d4770cc9)\\
   Nov 2019 - present
 - **ISL** メンバー [Site](https://ynu-isc-isl2015.jimdofree.com/)\\
   May 2018 - present
@@ -38,6 +38,10 @@ NPO法人VineTS理事長、横浜国立大学4年。\\
   [木本研究室](https://www.kimotolab.ml/) 陰影画像から三次元物体を推定する研究をしていました。
 
 ### Organizer <i class="fas fa-user-alt"></i>
+- **第1回北海道ZENPEN編入説明会(オンライン配信管理係)**\\
+  ZENPEN / Mar 1,2020
+- **[奨学金で広がる未来と考えること](https://vinets.connpass.com/event/165888/?fbclid=IwAR2Ks8v9GV6VekZCTXNaqkXond_kVlZw7xU2Tsx0TWgVAYcaaywlx2UxaXY)**\\
+  VineTS / Feb 22,2020
 - **[夢を語ろうLT会](https://yuma1100.github.io/tell_a_dream_LT/index.html)**\\
   VineTS / Jan 5,2020
 - **[第8回関東編入説明会](https://www.zenpen-kosen.com/blog/report-jobhunting3rd/)**\\
@@ -64,6 +68,8 @@ NPO法人VineTS理事長、横浜国立大学4年。\\
 - **ドット絵**
   
 ### Projects <i class="fas fa-wrench"></i>
+- **[ダンボール椅子](../projects/cardboardchair/)**\\
+  個人開発 / Feb 2020
 - **[NPO法人VineTS主催イベント「夢を語るLT会」LP](../projects/2019dream_lt_lp/)**\\
   VineTS / Dec 2019
 - **[実質0カロリートースター](../projects/0caltoaster/)**\\
