@@ -71,14 +71,6 @@ NPO法人VineTS理事長・株式会社ジンズ新規事業開発部所属 \\
 - **[全国合同オンライン編入説明会](https://www.zenpen-kosen.com/blog/event-online01/)**\\
   ZENPEN / Aug 9 Aug 11,2018
 
-### Languages <i class="fas fa-code"></i>
-- C / C++ / C# / PHP / JavaScript / CSS / HTML / python / Processing
-  
-### Interests <i class="fas fa-lightbulb"></i>
-- **AR**
-- **IoT**
-- **ドット絵**
-  
 ### Projects <i class="fas fa-wrench"></i>
 - **[Think Lab HOME](https://thinklab.jins.com/jp/ja/home/)**\\
   プロジェクト責任者 / May 2020 ~
@@ -104,3 +96,11 @@ NPO法人VineTS理事長・株式会社ジンズ新規事業開発部所属 \\
   ハッカソン / Mar 2019
 - **[シガダイゴ](../projects/shigadaigo/)**\\
   授業 / Jun 2017
+
+### Achievement <i class="fas fa-star-half"></i>
+- **現場の顔~社内外と円滑な連携を心掛けて~** 新聞取材 \\
+  繊研新聞 / Oct 30,2020
+- **[ジンズ子会社のシンク・ラボ　ブース型の書斎が人気](https://senken.co.jp/posts/thinklab-201013)** \\
+  繊研新聞 / Oct 13,2020
+- **[学生団体ZENPENの紹介](https://gakusei-kichi.com/?p=46286)** \\
+  ガクセイ基地 / Sep 9,2019
