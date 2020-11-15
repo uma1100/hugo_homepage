@@ -55,7 +55,10 @@ canonifyurls = true
         url   = "https://www.instagram.com/m0z_zz/"
         icon  = "instagram" # icon name without the 'fa-'
         icon_pack = "fab"
-    
+    [[params.social]]
+        url   = "mailto:yumayuma0322@gmail.com"
+        icon  = "envelope" # icon name without the 'fa-'
+        icon_pack = "fas"
     
 
 # If you don't want to use the default menu, you can define one by yourself

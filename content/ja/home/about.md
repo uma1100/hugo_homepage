@@ -1,6 +1,5 @@
 ---
 title: "About"
-image: "yuma_dot.jpg"
 weight: 1
 ---
 
